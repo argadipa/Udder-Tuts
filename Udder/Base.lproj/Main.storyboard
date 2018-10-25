@@ -39,7 +39,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DPS-43" translatesAutoresizingMaskIntoConstraints="NO" id="uyD-u7-P7A">
-                                <rect key="frame" x="0.0" y="353" width="375" height="314"/>
+                                <rect key="frame" x="155" y="448" width="220" height="219"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="DPS-43" translatesAutoresizingMaskIntoConstraints="NO" id="ez7-tF-vHB">
+                                <rect key="frame" x="0.0" y="300" width="220" height="219"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
